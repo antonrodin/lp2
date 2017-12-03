@@ -1,0 +1,5 @@
+Anton Zekeriev Rodin
+Carlos Yáñez Carrasco
+
+
+NOTA:Las gráficas no las hemos podido generar. Los algoritmos tardar demasiado, incluso generandolos desde consola.
