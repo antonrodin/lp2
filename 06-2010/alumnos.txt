@@ -1,0 +1,8 @@
+Anton Zekeriev Rodin
+Carlos Yáñez Carrasco
+
+Se adjunta el Build Log de los test pasado a las 15.34 el Domingo
+
+
+Se Adjunta el directorio Graficas, con las graficas asi como los ficheros utilizados para generarlas. 
+
