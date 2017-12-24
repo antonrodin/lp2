@@ -1,0 +1,23 @@
+1
+MemoDelitos
+caragrafica
+0 0 0 0
+C:\Uni\LP2\practicaIII\ver_0.3\datos\1.bmp
+2
+MemoDelitos
+caragrafica
+1 1 1 1
+C:\Uni\LP2\practicaIII\ver_0.3\datos\2.bmp
+3
+MemoDelitos
+caratexto
+2 2 2 2
+4
+MemoDelitos
+caragrafica
+1 2 2 2
+C:\Uni\LP2\practicaIII\ver_0.3\datos\4.bmp
+4
+MemoDelitos
+caratexto
+0 0 0 0

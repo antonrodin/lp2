@@ -1,0 +1,50 @@
+Functions called:
+ delete (146 times)
+ SysReallocMem (45 times)
+ SysFreeMem (2202 times)
+ SysGetMem (2202 times)
+ realloc (1 times)
+ memcpy (1 times)
+ delete[] (2 times)
+ free (26 times)
+ new[] (14 times)
+ new (151 times)
+ calloc (5 times)
+ malloc (20 times)
+Resource types used:
+ object array (14 allocs, 13 max)
+ object (151 allocs, 43 max)
+ memory block (2228 allocs, 851 max)
+Modules used:
+ 00370000 09/09/2002 13:51:10 C:\WINDOWS\system32\SHLWAPI.dll
+ 00400000 03/27/2006 16:47:22 c:\Uni\LP2\practicaIII\ver_0.3\Comisaria.exe
+ 0CD00000 01/31/2000 05:00:00 C:\ARCHIV~1\Borland\CBUILD~1\Bin\CG32.DLL
+ 32500000 01/31/2000 05:00:00 C:\ARCHIV~1\Borland\CBUILD~1\Bin\CC3250MT.DLL
+ 40000000 01/24/2000 05:01:00 C:\WINDOWS\System32\VCL50.BPL
+ 41000000 01/31/2000 05:00:00 C:\ARCHIV~1\Borland\CBUILD~1\Bin\BORLNDMM.DLL
+ 62E30000 08/24/2001 12:00:00 C:\WINDOWS\System32\LPK.DLL
+ 71A20000 08/24/2001 12:00:00 C:\WINDOWS\System32\WS2HELP.dll
+ 71A30000 08/24/2001 12:00:00 C:\WINDOWS\System32\WS2_32.dll
+ 71A50000 08/24/2001 12:00:00 C:\WINDOWS\System32\wsock32.dll
+ 71AA0000 08/24/2001 12:00:00 C:\WINDOWS\system32\mpr.dll
+ 72F20000 09/09/2002 13:51:18 C:\WINDOWS\System32\USP10.dll
+ 72F80000 09/09/2002 13:51:46 C:\WINDOWS\System32\winspool.drv
+ 746B0000 09/09/2002 13:50:50 C:\WINDOWS\System32\MSCTF.dll
+ 74CC0000 08/24/2001 12:00:00 C:\WINDOWS\System32\oledlg.dll
+ 76360000 09/09/2002 13:50:28 C:\WINDOWS\system32\comdlg32.dll
+ 770F0000 09/09/2002 13:51:06 C:\WINDOWS\system32\oleaut32.dll
+ 77180000 09/09/2002 13:51:06 C:\WINDOWS\system32\OLE32.DLL
+ 77310000 09/09/2002 13:50:28 C:\WINDOWS\system32\comctl32.dll
+ 773A0000 09/09/2002 13:51:10 C:\WINDOWS\system32\SHELL32.dll
+ 77BD0000 08/24/2001 12:00:00 C:\WINDOWS\system32\version.dll
+ 77BE0000 09/09/2002 13:51:00 C:\WINDOWS\system32\MSVCRT.DLL
+ 77C40000 09/09/2002 13:50:38 C:\WINDOWS\system32\GDI32.dll
+ 77D10000 09/09/2002 13:51:18 C:\WINDOWS\system32\user32.dll
+ 77DA0000 09/09/2002 13:50:24 C:\WINDOWS\system32\ADVAPI32.dll
+ 77E40000 09/09/2002 13:50:44 C:\WINDOWS\system32\kernel32.dll
+ 77F40000 09/09/2002 13:50:12 C:\WINDOWS\System32\ntdll.dll
+ 78000000 09/09/2002 13:51:08 C:\WINDOWS\system32\RPCRT4.dll
+ 78090000 09/09/2002 13:50:22
+ C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.
+10.0_x-ww_f7fb5805\comctl32.dll
+==========================================
